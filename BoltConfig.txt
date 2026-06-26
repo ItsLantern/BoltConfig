@@ -1,0 +1,7 @@
+//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/BXAMbot
+//profile-web-page-url: https://github.com/ItsLantern
+
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.70:443?encryption=none&security=tls&sni=vangoghhh.info&insecure=0&allowInsecure=0&type=ws&host=vangoghhh.info&path=%2Frdfgtws#Made%20With%20%E2%9D%A4%20By%20ItsPastil%20%F0%9F%87%A9%F0%9F%87%AA
